@@ -1,9 +1,18 @@
-<h1>Jogo do número secreto</h1>
+<h1>Jogo do número secreto(Alura)</h1>
+<p></p>
 
-<h2>📋 Sobre </h2>
-<p>Projeto utilizado no curdo de lógica de programação: explore funções e listas.(Alura)</p>
+<h3>🟢Curso Base</h3>
+<p>A partir do zero: iniciante em programação</p>
 
-## 👨‍💻 Tecnologias
+<h2>📋Cursos ultilizados no projeto</h2>
+<p> 1.Lógica de programação: mergulhe em programação com JavaScript
+
+  2.Lógica de programação: explore funções e listas
+
+3.Git e GitHub: compartilhando e colaborando em projetos
+</p>
+
+## 👨‍💻Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
