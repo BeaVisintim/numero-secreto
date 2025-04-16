@@ -14,7 +14,8 @@
 
 <h2>Resumo</h2>
 
-<h4>Projeto desenvolvido com o VScode para programar em JavaScript. No projeto, foi usado variáveis para armazenar informações, além de funções como <ins>alert e prompt</ins> para testes de códigos. Foram ultilizados <ins>if/else</ins> e loops <ins> (while) </ins> para criar lógicas de decisão, como verificar chutes em um jogo de adivinhação e contar as tentativas. Também utilizei o console para depuração, <ins>template strings</ins> para personalizar mensagens e a função <ins>Math.random()</ins> para gerar números aleatórios.</h4>
+<h4>Desenvolvido com VScode fiz a construção de um jogo interativo com JavaScript, HTML. Foi usado variáveis, funções, estruturas condicionais e de repetição, além da geração de números aleatórios com Math.random() e contagem de tentativas em um jogo de adivinhação. Estudei a manipular elementos HTML com JavaScript para tornar a página mais dinâmica e interativa. 
+Ultilizando o Git e o GitHub para gerenciar e compartilhar o projeto, entendendo comandos essenciais como git init, add, commit, push, pull e clone. Também sobre o uso da interface integrada do Git no VSCode, resolução de conflitos manuais, criação de arquivos como README.md e .gitignore, e o uso do Git para compartilhar trechos de código. Além disso, foi reforçada a importância de consultar a documentação para melhorar a qualidade e legibilidade do código.</h4>
 
 
 ## 👨‍💻Tecnologias
